@@ -1,0 +1,66 @@
+body {
+  background-color: rgb(65, 97, 177);
+  margin-right: 570px;
+  margin-left: 570px;
+}
+
+button{
+	text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+	margin-left: 340px;
+}
+
+header{
+	font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+p {
+	text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+#dane{
+	font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+	margin-left: 20px;
+	}
+	#wpisane{
+	text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+	}
+	#dane,#wpisane{
+	display:inline-block;
+  font-family: Arial, Helvetica, sans-serif;
+	}
+	#naglowki{
+	text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+	font-size: 40px;
+	}
+	
+      #rodzic {
+        width:740px;
+        height:46px;
+        font-size:24px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin:auto;
+        text-align:center;
+      }
+
+      #rodzic > span {
+        display:block;
+        float:left;
+        width:40px;
+        line-height:40px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin:0 5px;
+        border:3px solid;
+        background-color:#FFF;
+        border-radius:6px;
+        
+      }
+
